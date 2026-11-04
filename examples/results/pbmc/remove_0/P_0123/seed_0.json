@@ -1,0 +1,31 @@
+{
+  "method": "P_0123",
+  "seed": 0,
+  "n": 772,
+  "seconds": 403.1286624339991,
+  "chosen_start": 1,
+  "starts": [
+    {
+      "start": "pc_perturbed",
+      "objective": -0.9774678072274136,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+      "iterations": 2786,
+      "gradient_inf_mean_loss": 2.087271879518641e-05,
+      "seconds": 174.82812770199962
+    },
+    {
+      "start": "gaussian",
+      "objective": -0.9777263933247918,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+      "iterations": 3840,
+      "gradient_inf_mean_loss": 1.9364205383387566e-05,
+      "seconds": 227.74703365395544
+    }
+  ],
+  "channels": [
+    0,
+    1,
+    2,
+    3
+  ]
+}

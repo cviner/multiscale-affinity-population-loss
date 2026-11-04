@@ -1,0 +1,10 @@
+numpy==2.2.6
+scipy==1.15.3
+scikit-learn==1.6.0
+pandas==2.2.3
+# Needed only for UMAP, multiscale t-SNE, and the same-affinity control
+numba==0.61.2
+umap-learn==0.5.9.post2
+openTSNE==1.0.4
+# Model P
+msld @ git+https://github.com/cviner/multiscale-latent-distance@v1.0.0
